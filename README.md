@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer engineering 
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.pietromariareggio.com(coming soon)
+- 📫 How to reach me www.pietromariareggio.com (coming soon)
 
 <!---
 bart-qwerty/bart-qwerty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
